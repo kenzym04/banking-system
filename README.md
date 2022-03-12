@@ -99,3 +99,9 @@ celery -A banking_system beat -l info
 ![alt text](https://i.imgur.com/FvgmEJL.png)
 #
 ![alt text](https://i.imgur.com/aWzj44Y.png)
+
+## Authentication
+admin email - admin@admin.com
+
+admin password - admin123
+
